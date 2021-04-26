@@ -33,7 +33,7 @@ const NuevaCuenta = () => {
 
   return (
     <div className="form-usuario">
-      <div className="contenedor-form sombra-dark">
+                          <div className="contenedor-form sombra-dark">
         <h1>Obtener una Cuenta</h1>
 
         <form onSubmit={onSubmit}>
